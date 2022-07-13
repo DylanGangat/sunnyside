@@ -3,11 +3,11 @@
         <nav class="main-nav">
             <a href="#"><img src="images/logo.svg" alt="logo"></a>
             <div class="nav-toggle"><img src="images/icon-hamburger.svg" alt="hamburger menu icon"></div>
-            <ul class="nav-list hidden">
+            <ul class="nav-list">
                 <li><a href="#">About</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Projects</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#" class="cta-btn">Contact</a></li>
             </ul>  
         </nav>
         <h1 class="main-heading">We are creatives</h1>

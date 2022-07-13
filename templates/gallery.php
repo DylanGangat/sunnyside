@@ -2,7 +2,7 @@
 
     <!-- picture 1 -->
     <picture>
-        <source srcset="/images/desktop/image-gallery-milkbottles.jpg" media="(min-width: 1440px)">
+        <source srcset="images/desktop/image-gallery-milkbottles.jpg" media="(min-width: 1440px)">
         <img src="images/mobile/image-gallery-milkbottles.jpg" alt="A milkbottles">
     </picture>
 

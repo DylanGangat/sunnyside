@@ -1,6 +1,6 @@
 <section class="testimonials">
-    <div class="container flow-content">
-        <h2>Client testimonials</h2>
+    <div class="container">
+        <h2 class="title">Client testimonials</h2>
         <div class="reviews">
         
         <!-- review 1 -->
